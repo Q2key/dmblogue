@@ -5,4 +5,4 @@ pubDate: 'Feb 21 2026'
 mood: 'curious'
 ---
 
-Write your post content here.
+Write your post content here!
